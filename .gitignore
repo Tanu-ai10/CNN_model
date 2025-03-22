@@ -1,0 +1,8 @@
+# Ignore everything inside the images/ folder
+images/
+
+# Or, if you only want to ignore image files inside test/ and train/
+images/test/
+images/train/
+
+
